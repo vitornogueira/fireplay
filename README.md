@@ -3,9 +3,9 @@
 FirePlay é um app para [FirefoxOS](http://www.mozilla.org/pt-BR/firefox/os/) que possibilita a criação de playlist de videos utilizando várias fontes de acesso.
 
 ## Sites acessados
-[YouTube](http://www.youtube.com).
-[Vimeo](http://www.vimeo.com).
-[Dailymotion](http://www.dailymotion.com).
+[YouTube](http://www.youtube.com);
+[Vimeo](http://www.vimeo.com);
+[Dailymotion](http://www.dailymotion.com);
 
 
 ## Objetivos
