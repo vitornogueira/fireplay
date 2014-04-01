@@ -1,0 +1,30 @@
+/*Cores padrão*/
+/*Vermelho base: #CD2C24;*/
+/*Vermelho claro:#F2594B;*/
+
+body, html{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+		font-family: OpenSansL;
+		font-size: 18px;
+		color: #FFF;
+	background: #CD2C24;
+		border-style: solid;
+		border-color: #F2594B;
+		border-width: 1px 0px 5px 0px;
+	width:100%;
+		padding: 11px 0px 11px 0px;
+		margin: 0px;
+	position: absolute;
+	top:0px;
+}
+footer{
+	background: #CD2C24;
+	width: 100%;
+		padding: 14px 0px 14px 0px;
+		margin: 0px;
+	position: absolute;
+	bottom: 0px;
+}
